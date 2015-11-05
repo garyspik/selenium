@@ -25,6 +25,7 @@ public class LoginTest {
 
         driver.close();
         driver.quit();
+        System.out.println("xyi");
     }
 
 
