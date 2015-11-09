@@ -3,6 +3,6 @@
  */
 public class Setting {
     public static String url ="http://localhost:80";
-    public static String loginUrl = url + "/wordpress/wp-login.php";
+    public static String loginUrl = url + "/wordpress/wp-login";
 
 }
