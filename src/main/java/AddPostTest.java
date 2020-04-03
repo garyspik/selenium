@@ -5,6 +5,6 @@ import org.openqa.selenium.WebDriver;
  */
 public class AddPostTest {
     protected static WebDriver driver;
-
+AddPostTest
 
 }
